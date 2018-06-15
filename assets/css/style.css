@@ -1,0 +1,40 @@
+body{
+    background: url("../images/weather.png");
+    text-align: center;
+    margin-top: 0;
+    font-family: 'Comfortaa', cursive;
+    background-color: #ffff00;
+}
+#title{
+    text-align: center;
+    font-size: 40px;
+    
+}
+.starting{
+    margin: 45%;
+    padding : 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    
+
+}
+.finish-button{
+    margin: 45%;
+    padding : 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    
+}
+.question, .answers{
+    text-align: center;
+}
+
+@media screen and (max-width : 980px){
+
+}
+@media screen and (max-width : 760px){
+
+}
+@media screen and (max-width : 640px){
+
+}
